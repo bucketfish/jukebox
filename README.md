@@ -19,6 +19,8 @@ snapfit bottom panel for easy internal access
 
 the build irl is like a little janky ahhghdhjghghgjk one of the wires are probably a little loose 💔
 
+wiring diagram soon ...
+
 ## bom
 
 | item | quantity |
